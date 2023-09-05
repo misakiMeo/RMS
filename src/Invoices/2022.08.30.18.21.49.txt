@@ -1,0 +1,23 @@
+	*** Some Restaurant ***
+
+
+Customer name : Pippo
+Customer mobile : 111
+Served by : A
+Date and Time : 2022-08-30 18:21:49
+Item				Quantity	Rate		Value
+---------			-------	------	------
+Chicken Jhal Fry			2	220		440.0
+
+
+Chicken Biriyani			3	100		300.0
+
+
+						Sub total: 740.0
+						VAT: 55.5
+						Coupon discount: 0.0
+						Point discount: 0.0
+						Total: 795.5
+
+
+New Point Balance: 

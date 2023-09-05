@@ -1,0 +1,8 @@
+Item: Chicken Jhal Fry
+Quantity: 2
+Rate: 220
+Value: 440.0
+Item: Chicken Fry
+Quantity: 3
+Rate: 105
+Value: 315.0

@@ -1,0 +1,26 @@
+	*** Some Restaurant ***
+
+Customer name : Pippo
+Customer mobile : 111
+Served by : A
+Order Type : Dine in
+Date and Time : 2022-08-30 21:04:01
+New Point Balance: 
+New Point Expiry Date: 
+
+
+
+------------------------------------------------------
+Item			Quantity	Rate		Value
+------------------------------------------------------
+Chicken Jhal Fry			2	220		440.0
+
+Chicken Biriyani			4	100		400.0
+
+------------------------------------------------------
+						Sub total: 840.0
+						VAT: 63.0
+						Coupon discount: 100.0
+						Point discount: 20.0
+						Total: 783.0
+Payment Method : Cash

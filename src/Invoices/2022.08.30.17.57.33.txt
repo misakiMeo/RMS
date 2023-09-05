@@ -1,0 +1,4 @@
+Item			Quantity	Rate		Value
+------			-------	-----		-----
+Chicken Jhal Fry3220660.0
+Chicken Fry4105420.0
