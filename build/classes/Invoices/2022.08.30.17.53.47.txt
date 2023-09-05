@@ -1,0 +1,5 @@
+Item	Quantity	Rate	Value	--------------------------------------------------------
+Item: Chicken Jhal Fry
+Quantity: 3
+Rate: 220
+Value: 660.0

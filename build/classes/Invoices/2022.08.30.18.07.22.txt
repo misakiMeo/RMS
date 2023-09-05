@@ -1,0 +1,4 @@
+Item				Quantity	Rate		Value
+---------			-------	------		------
+Chicken Jhal Fry			2		220			440.0			
+Chicken Biriyani			1		100			100.0			
